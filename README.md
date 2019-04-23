@@ -15,3 +15,8 @@ Please update connection in config.ini.
 
 Source of sample data:
 https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
+
+You can deploy it to Heroku following these instructions:
+https://devcenter.heroku.com/articles/getting-started-with-python#deploy-the-app
+
+But the application is not set to read and predict new records!
