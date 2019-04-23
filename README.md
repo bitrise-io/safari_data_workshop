@@ -12,3 +12,6 @@ This is a sample application
 - predicting employee attrition with tree classifiers.
 
 Please update connection in config.ini.
+
+Source of sample data:
+https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
